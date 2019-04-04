@@ -1,0 +1,14 @@
+G:\NetCoreTest\NetCoreDemo\NetCore.DTO\bin\Release\netcoreapp2.1\NetCore.DTO.deps.json
+G:\NetCoreTest\NetCoreDemo\NetCore.DTO\bin\Release\netcoreapp2.1\NetCore.DTO.dll
+G:\NetCoreTest\NetCoreDemo\NetCore.DTO\bin\Release\netcoreapp2.1\NetCore.DTO.pdb
+G:\NetCoreTest\NetCoreDemo\NetCore.DTO\bin\Release\netcoreapp2.1\NetCore.Common.dll
+G:\NetCoreTest\NetCoreDemo\NetCore.DTO\bin\Release\netcoreapp2.1\NetCore.Model.dll
+G:\NetCoreTest\NetCoreDemo\NetCore.DTO\bin\Release\netcoreapp2.1\NetCore.Common.pdb
+G:\NetCoreTest\NetCoreDemo\NetCore.DTO\bin\Release\netcoreapp2.1\NetCore.Model.pdb
+G:\NetCoreTest\NetCoreDemo\NetCore.DTO\obj\Release\netcoreapp2.1\NetCore.DTO.csprojAssemblyReference.cache
+G:\NetCoreTest\NetCoreDemo\NetCore.DTO\obj\Release\netcoreapp2.1\NetCore.DTO.csproj.CoreCompileInputs.cache
+G:\NetCoreTest\NetCoreDemo\NetCore.DTO\obj\Release\netcoreapp2.1\NetCore.DTO.AssemblyInfoInputs.cache
+G:\NetCoreTest\NetCoreDemo\NetCore.DTO\obj\Release\netcoreapp2.1\NetCore.DTO.AssemblyInfo.cs
+G:\NetCoreTest\NetCoreDemo\NetCore.DTO\obj\Release\netcoreapp2.1\NetCore.DTO.csproj.CopyComplete
+G:\NetCoreTest\NetCoreDemo\NetCore.DTO\obj\Release\netcoreapp2.1\NetCore.DTO.dll
+G:\NetCoreTest\NetCoreDemo\NetCore.DTO\obj\Release\netcoreapp2.1\NetCore.DTO.pdb
