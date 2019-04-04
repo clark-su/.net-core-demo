@@ -1,9 +1,0 @@
-G:\NetCoreTest\NetCoreDemo\NetCore.Model\bin\Release\netcoreapp2.1\NetCore.Model.deps.json
-G:\NetCoreTest\NetCoreDemo\NetCore.Model\bin\Release\netcoreapp2.1\NetCore.Model.dll
-G:\NetCoreTest\NetCoreDemo\NetCore.Model\bin\Release\netcoreapp2.1\NetCore.Model.pdb
-G:\NetCoreTest\NetCoreDemo\NetCore.Model\obj\Release\netcoreapp2.1\NetCore.Model.csprojAssemblyReference.cache
-G:\NetCoreTest\NetCoreDemo\NetCore.Model\obj\Release\netcoreapp2.1\NetCore.Model.csproj.CoreCompileInputs.cache
-G:\NetCoreTest\NetCoreDemo\NetCore.Model\obj\Release\netcoreapp2.1\NetCore.Model.AssemblyInfoInputs.cache
-G:\NetCoreTest\NetCoreDemo\NetCore.Model\obj\Release\netcoreapp2.1\NetCore.Model.AssemblyInfo.cs
-G:\NetCoreTest\NetCoreDemo\NetCore.Model\obj\Release\netcoreapp2.1\NetCore.Model.dll
-G:\NetCoreTest\NetCoreDemo\NetCore.Model\obj\Release\netcoreapp2.1\NetCore.Model.pdb
