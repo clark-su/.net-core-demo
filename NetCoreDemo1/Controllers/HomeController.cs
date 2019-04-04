@@ -14,6 +14,7 @@ namespace NetCoreDemo1.Controllers
     {
         public IActionResult Index()
         {
+            //获取用户信息
            IList<User> userList= UserDTO.GetAllUsers();
             ViewData["UserList"] = userList;
             return View();
