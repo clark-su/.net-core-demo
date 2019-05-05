@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using System.Threading;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using NetCore.DTO;
@@ -15,8 +16,10 @@ namespace NetCoreDemo1.Controllers
         public IActionResult Index()
         {
             //获取用户信息
-           IList<User> userList= UserDTO.GetAllUsers();
-            ViewData["UserList"] = userList;
+            //IList<User> userList= UserDTO.GetAllUsers();
+            //ViewData["UserList"] = userList;
+            Task<string> str = GetMsg1();
+            ViewBag.Str = str.Result;
             return View();
         }
 
@@ -43,6 +46,30 @@ namespace NetCoreDemo1.Controllers
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+
+        async void Get()
+        {
+            //Task.Run(()=> {
+            //     GetMsg();
+            // });
+           string ss=await GetMsg1();
+        }
+
+        string GetMsg()
+        {
+            Thread.Sleep(5000);
+            return "ok";
+        }
+
+        async Task<string> GetMsg1()
+        {
+            await Task.Run(() =>
+             {
+                //await Task.Delay(5000);
+                Thread.Sleep(5000);
+             });
+            return "666";
         }
     }
 }
